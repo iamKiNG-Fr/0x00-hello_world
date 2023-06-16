@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * mai- print quote
+ * main - print quote
  *
  * Return: Always 1 (Success)
  */
