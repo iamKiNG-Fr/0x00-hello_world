@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * _isalpha - Entry point
  * @c: this is an ascii char
