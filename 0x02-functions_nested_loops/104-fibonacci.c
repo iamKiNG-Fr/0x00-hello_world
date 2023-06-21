@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * print_fibonacci_numbers - function to print fib numbers
  * main - entry
- * @i: is a count variable
  * Return: Always 0.
  */
 
